@@ -22,7 +22,7 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
         <strong>Tarea 1. Covid Modelo de Regresion </strong>
         <ul>
           <li>Código:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/CovidRegresion/Covid.ipynb">click aquí</a> </li>
-           <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Tarea%20Dados/Practica%20Dados.pdf">click aquí</a> </li> 
+           <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/CovidRegresion/Covid.pdf">click aquí</a> </li> 
         </ul>
       </li>
     </ul>
