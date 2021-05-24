@@ -47,6 +47,13 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
         </ul>
       </li>
       <li>
+        <strong>Tarea 6. Simulacion CarWash Simpy </strong>
+        <ul>
+          <li>Código:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/SimulacionCarwash/main.py">click aquí</a> </li>
+           <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/SimulacionCarwash/informe.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
+      <li>
         <strong>Prueba.</strong>
         <ul>
           <li>Código:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/prueba/out/output.ipynb">click aquí</a> </li>
