@@ -60,6 +60,14 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
            <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/prueba/informe.pdf">click aquí</a> </li> 
         </ul>
       </li>
+      <li>
+        <strong>Examen.</strong>
+        <ul>
+           <li>Código Simpy:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Examen/Simpy.ipynb">click aquí</a> </li>
+           <li>Código Regresion:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Examen/tweets.ipynb">click aquí</a> </li>
+           <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Examen/Informe.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
