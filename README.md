@@ -61,6 +61,15 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
         </ul>
       </li>
       <li>
+        <strong>Boletin.</strong>
+        <ul>
+          <li>Simulador SimTraffic:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Boletin/trafico.osm">click aquí</a> </li>
+          <li>Informe SimTraffic: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Boletin/informeTrafico.pdf">click aquí</a> </li> 
+          <li>Código PIB:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Boletin/RegresionPIB.ipynb">click aquí</a> </li>
+          <li>Informe PIB: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Boletin/RegresionPIB.pdf">click aquí</a> </li>
+        </ul>
+      </li>
+      <li>
         <strong>Examen.</strong>
         <ul>
            <li>Código Simpy:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Examen/Simpy.ipynb">click aquí</a> </li>
