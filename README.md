@@ -77,6 +77,14 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
            <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Examen/Informe.pdf">click aquí</a> </li> 
         </ul>
       </li>
+      <li>
+        <strong>Interciclo.</strong>
+        <ul>
+           <li>Código:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Interciclo/Vacunacion.doe">click aquí</a> </li>
+           <li>Link Blog:  <a href = "https://ecufruter.wixsite.com/website">click aquí</a> </li>
+           <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Interciclo/informeInterciclo.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
