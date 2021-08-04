@@ -99,6 +99,14 @@ Este repositorio contiene trabajos, pruebas y exámenes de la materia de simulac
            <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/Interciclo/informeInterciclo.pdf">click aquí</a> </li> 
         </ul>
       </li>
+      <li>
+        <strong>Trabajo Final Fake news.</strong>
+        <ul>
+           <li>Código:  <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/NoticiasFalsa/NoticiasFalsas.ipynb">click aquí</a> </li>
+           <li>Data:  <a href = "https://www.mediafire.com/folder/0ct7c7582v0ed/data">click aquí</a> </li>
+           <li>Informe: <a href = "https://github.com/EstebanRP98/simulacion_esteban_rosero/blob/main/NoticiasFalsa/NoticiasFalsas.pdf">click aquí</a> </li> 
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
